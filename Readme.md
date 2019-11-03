@@ -7,3 +7,5 @@ Saiba mais em [willianjusten.com.br](http://willianjustem.com.br)
 Gostou do curso? Quer mais? Ajuda com uma doação, até um café é válido =)
 
 paypal[]
+
+Outros cursos em : (http://example.teachable.com)
